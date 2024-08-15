@@ -1,5 +1,3 @@
-Kinetic Kraze - Fitness and Health
-Project Description
 Kinetic Kraze is a comprehensive fitness website designed to address the drawbacks of existing fitness platforms. It integrates multiple fitness-related features into one platform, such as:
 
 Workouts tailored to specific fitness goals
